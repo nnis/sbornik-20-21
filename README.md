@@ -8,7 +8,7 @@ Nainstalovat (archlinux, manjaro a pod):
 
 Pro pohodlí existuje Makefile s nasledujícími cíly:
 
-- `make pdf` - vygeneruje přes pandoc a pdfunite `pdf`
+- `make pdf` - vygeneruje přes pandoc a pdftk `pdf`
 - `make epub` - vygeneruje přes pandoc `epub`
 - `make clean` - smaže vše co není zdroják
 - `make help` - zobrazí všechny cíle v make
