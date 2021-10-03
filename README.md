@@ -4,7 +4,7 @@ Nainstalovat (archlinux, manjaro a pod):
 - `pandoc`
 - `pandoc-crossref`
 - `texlive-most`
-- `pdfunite`
+- `pdftk`
 
 Pro pohodlí existuje Makefile s nasledujícími cíly:
 

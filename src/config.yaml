@@ -1,8 +1,8 @@
 ---
-title: Ozveny
-subtitle: IF rulez 2021
+title: Ozvěny informačních pondělků 20-21
+subtitle: Informace - Technologie - Trendy - Diskuse
 author: Nina Wančová et. al
-subject: "Ozveny"
+subject: Ozvěny informačních pondělků
 keywords: [books]
 language: cs-CZ
 lof: false
@@ -13,4 +13,5 @@ titlepage: false
 papersize: a4
 colorlinks: true
 book: true
+documentclass: book
 ---

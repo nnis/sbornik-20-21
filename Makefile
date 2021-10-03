@@ -16,12 +16,12 @@ pdf: ## Vyrobi pdf
 	--toc \
 	--toc-depth=2 \
 	--number-sections \
-	--filter pandoc-crossref \
 	--top-level-division=chapter \
+	--filter pandoc-crossref \
 	-o build/$(TEMPOUT).pdf \
 	src/config.yaml $(SRC)
 
-	pdfunite ${TITLE} build/$(TEMPOUT).pdf build/$(OUTPUT).pdf
+	pdftk ${TITLE} build/$(TEMPOUT).pdf cat output build/$(OUTPUT).pdf
 	@rm -f build/$(TEMPOUT).pdf
 
 epub: ## Vyrobi epub
@@ -32,8 +32,8 @@ epub: ## Vyrobi epub
 	--toc \
 	--toc-depth=2 \
 	--number-sections \
-	--filter pandoc-crossref \
 	--top-level-division=chapter \
+	--filter pandoc-crossref \
 	-o build/$(OUTPUT).epub \
 	src/config.yaml $(SRC)
 
