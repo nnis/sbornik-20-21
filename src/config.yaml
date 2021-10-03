@@ -1,17 +1,19 @@
 ---
-title: Ozvěny informačních pondělků 20-21
+title: Ozvěny informačních pondělků 2020/21
 subtitle: Informace - Technologie - Trendy - Diskuse
-author: Nina Wančová et. al
+author:
+  - Nina Wančová
+  - Jana Hecová
+  - Jaroslav Nedavaška
 subject: Ozvěny informačních pondělků
-keywords: [books]
+keywords: [Informační pondělky, Seminární práce, Informační věda, Knihovnictví, Technologie]
 language: cs-CZ
 lof: false
 lof-own-page: false
-toc-own-page: false
+toc-own-page: true
 toc-title: Obsah
 titlepage: false
 papersize: a4
 colorlinks: true
 book: true
-documentclass: book
 ---

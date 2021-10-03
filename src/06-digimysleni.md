@@ -4,11 +4,11 @@ Jana Bednářová
 
 ## Úvod
 
-Obsah textu se v krátkém přehledu zaměřuje na moderní technologie a na člověka z hlediska vzájemného působení reálného světa a kyberprostoru. Nepředkládá možná řešení technických a technologických faktů, ale zabývá se otázkou, jak se mění lidské myšlení vlivem digitálních technologií, zároveň nastiňuje možné přínosy i negativa těchto jevů. Tématu se v současné době věnují specialisté z různých vědních oborů, zejména z psychologie, sociologie, neurovědy, informační vědy a jiné (Gardner, 2018; Greenfield, 2016; Prensky, 2012; Spitzer, 2014). Za jednu z hlavních oblastí, v níž se k sobě výzkumné problémy interdisciplinárně přibližují, lze považovat zejména spojení několika dimenzí myšlení a využití znalostí a dovedností na základě určitých metod podporujících lidskou mysl (vzájemné ovlivňování a působení vlastních zkušeností v souvislosti s využíváním digitálních technologií). 
+Obsah textu se v krátkém přehledu zaměřuje na moderní technologie a na člověka z hlediska vzájemného působení reálného světa a kyberprostoru. Nepředkládá možná řešení technických a technologických faktů, ale zabývá se otázkou, jak se mění lidské myšlení vlivem digitálních technologií, zároveň nastiňuje možné přínosy i negativa těchto jevů. Tématu se v současné době věnují specialisté z různých vědních oborů, zejména z psychologie, sociologie, neurovědy, informační vědy a jiné (Gardner, 2018; Greenfield, 2016; Prensky, 2012; Spitzer, 2014). Za jednu z hlavních oblastí, v níž se k sobě výzkumné problémy interdisciplinárně přibližují, lze považovat zejména spojení několika dimenzí myšlení a využití znalostí a dovedností na základě určitých metod podporujících lidskou mysl (vzájemné ovlivňování a působení vlastních zkušeností v souvislosti s využíváním digitálních technologií).
 
 Moderní technologie během let nepochybně změnily způsob, jakým žijeme, jak myslíme a jak přistupujeme k řešení problémů. Informační technologie se stále více ukotvují v našem každodenním životě, následkem čehož se hranice mezi lidmi a kyberprostorem tenčí a lidská bytost lapená do sítě virtuálního světa se pomalu přetváří na „*kyberorganismus*“ (v přeneseném smyslu „*kyberneticky řízený organismus*“, ať již ve smyslu rozumového či fyzického ovlivnění). Stejně jako všechny ostatní přeměny civilizace se i tato transformace zatím jeví jako nevratná. Přináší s sebou ztráty i zisky. Digitální technologie představují novou etapu v historii lidského myšlení a je příhodné se zamyslet nad tím, jaký vliv mají na lidský mozek – uvažování, paměť, učení a jednání. Odhalení možných negativních dopadů tohoto jevu a nalezení potenciálu jejich každodenního využívání může být dáno do souvislosti s dalším utvářením lidské budoucnosti. Ať je to fakt či idea, všichni se nakonec nějak musí vypořádat s inteligentními, vzájemně propojenými všudypřítomnými prostředími podporovanými kybernetickým světem. Nezáleží na tom, zda se již do světa protkaného digitálním prostorem narodili, či se s ním setkali v průběhu svého života.
 
-> **„Stavíme nový svět, všechno je možné“** 
+## „Stavíme nový svět, všechno je možné“
 
 (Mitchell, c2004)
 
@@ -26,7 +26,7 @@ Kolem sociálních sítí existuje stále řada otazníků. To, jak lidé komuni
 
 Neurovědecké výzkumy ukazují, že rozsáhlé používání internetu a časté vstupy do kyberprostoru mohou lidské mozky změnit i fyzicky. Lidská mysl je každý den konfrontována s novými myšlenkami a plány. Mozek se mění a s každým novým úkolem se otevřou „*nové nervové dráhy, které dávají pokyn lidským tělům*“. Schopnost mozku měnit se učením se objevuje v jakémkoli věku. Nervové dráhy se vytvářejí v případě, že se člověk naučil něco nového. Stejná spojení ale mohou být i zničena – selhání paměti člověka se může projevit například zapomenutím jména jiné osoby. Studie ukazují, že čím více času lidé tráví na internetu, tím více si zvykají na rychlé zpracování zjednodušených úryvků informací a mají problém vrátit se k delším tištěným textům (Michelon, 2008). Jak se krok za krokem vrátit k hluboké a soustředěné četbě tištěných knih, řeší například americká neuroložka Maryanne Wolfová ve své knize Čtenáři, vrať se, v níž „*shrnuje dosavadní vědecké poznání o vlivu digitálních médií na proces čtení a lidský mozek*“ (Wolf, 2020).
 
-> **„Používej to, nebo o to přijdeš“**
+## „Používej to, nebo o to přijdeš“
 
 (Wolf, 2020 s.72)
 
@@ -40,31 +40,31 @@ Na druhou stranu kyberprostor nabízí i místo pro rozvoj kognitivních funkcí
 
 Moderní technologie nabízejí neuvěřitelné možnosti pro práci, zábavu i sociální interakci. Známe ale dobře jejich cenu? Stojíme za hranicí nové éry s kořeny pevně zahloubenými do virtuálního prostoru, který přináší neustálé změny do našeho světa. Automatizace, umělá inteligence a robotika – to vše mění naše životy. Digitální narušení však může jít mnohem dále, než si dokážeme uvědomit. Technologie umožňují lidem z celého světa být virtuálně na jakémkoliv místě a v podstatě ihned se spojit s osobou, na niž pomyslíme. A přesto zůstáváme nohama na zemi a v prázdných místnostech. Změna, kterou sami na sobě příliš nevnímáme a jíž povětšinou nevěnujeme pozornost, probíhá v našem mozku, ovlivňuje naše myšlení a kreativitu.
 
-Jako krajní příklad bych na závěr ráda citovala pasáž z knihy Susan Greenfieldové (Greenfield, 2016 s. 257-258): 
+Jako krajní příklad bych na závěr ráda citovala pasáž z knihy Susan Greenfieldové (Greenfield, 2016 s. 257-258):
 
 > „*Tak to jsme my, protloukáme se davy, ale ty nás vůbec nevnímají. Alespoň v jedné ruce držíme něco k snědku a do ucha se nám line neutuchající proud nejspíše hudby, případně nahraných verbálních textových zpráv či možná informací o tom, kde si můžeme koupit nejnovější zboží, které, jak ukázala naše dosavadní historie brouzdání, je pro nás přesně to pravé. Kyberprostor se již neomezuje na dvojrozměrnou obrazovku, ale roztahuje se do třech dimenzí, čímž transformuje realitu. Náš svět připomíná spíše bublinu. Venku kolem nás chodí jiní lidé, ale chrání nás před nimi průhledný štít zahrnující náš virtuální prostor, naši novou dimenzi. Můžeme se dotýkat různých věcí a přivonět k nim, můžeme je slyšet i vidět je, ale nikdy nejsme sami, nikdy nejsme nezávislí. Vždy máme onen hlas v uchu, našeho nejlepšího přítele, který působí jako prostředník, a proto nás paradoxně zároveň ode všech a všeho ostatního vzdaluje v momentě, kdy nás spojí. Nebudeme příliš tušit, kdo jsme, nebudeme mít představu o minulosti ani budoucnosti, jen o jednolitých atomizovaných okamžicích. […] Jakomalé děti budeme ochotni poslouchat na slovo a přizpůsobovat se, neboť se adaptujeme na svět, kde očekáváme neustálé uznání od ostatních. […] K tomuto stírání hranice mezi vlastním já a vnějším světem přibude ještě stírání mezi skutečností a fantazií. Protože již nebudeme používat své smysly, ale ve všem nám bude pomáhat a asistovat náš nejlepší kyberpřítel, bude hranice reality díky pokroku v biotechnologii čím dál rozmazanější, stejně jako náš ambivalentní generační status.*“
 
- 
+
 Samozřejmě jde o poněkud extrémní scénář a „*za vlasy přitažené*“ vyjádření vidiny budoucnosti lidstva.  Zamysleme se ovšem nad tím, jak je právě dnes hranice mezi lidskou bytostí a „*kyberorganismem*“ tenká a jakou cestu dokáže ujít do zítřka.
 
 ## Zdroje
 
-Gindrat, A. -D., Chytiris, M., Balerna, M., Rouiller, E.  M., & Ghosh, A. (2015). Use-Dependent Cortical Processing from Fingertips in Touchscreen Phone Users [Online]. Current Biology, 25(1), 109-116. https://doi.org/10.1016/j.cub.2014.11.026
+Gindrat, A. -D., Chytiris, M., Balerna, M., Rouiller, E.  M., & Ghosh, A. (2015). Use-Dependent Cortical Processing from Fingertips in Touchscreen Phone Users [Online]. Current Biology, 25(1), 109-116. [https://doi.org/10.1016/j.cub.2014.11.026](https://doi.org/10.1016/j.cub.2014.11.026)
 
 Greenfield, S. (2016). Změna myšlení: jak se mění naše mozky pod vlivem digitálních technologií. V Brně: BizBooks.
 
-JIROVSKÝ, V. (2021, March 9). Kybernetická společnost (8. 3. 2021) [Online]. Retrieved July 28, 2021, from https://www.youtube.com/watch?v=3kkLYmIV3sg&list=PLdzensQPEAPOkMAVMoJuhbV43UNizW7G2&index=2
+JIROVSKÝ, V. (2021, March 9). Kybernetická společnost (8. 3. 2021) [Online]. Retrieved July 28, 2021, from [https://www.youtube.com/watch?v=3kkLYmIV3sg&list=PLdzensQPEAPOkMAVMoJuhbV43UNizW7G2&index=2](https://www.youtube.com/watch?v=3kkLYmIV3sg&list=PLdzensQPEAPOkMAVMoJuhbV43UNizW7G2&index=2)
 
-KOLB, B., & GIBB, R. (2011). Brain plasticity and behaviour in the developing brain [Online]. Journal Of The Canadian Academy Of Child And Adolescent Psychiatry, 20(4), 256-267. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222570/
+KOLB, B., & GIBB, R. (2011). Brain plasticity and behaviour in the developing brain [Online]. Journal Of The Canadian Academy Of Child And Adolescent Psychiatry, 20(4), 256-267. Retrieved from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222570/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222570/)
 
-MICHELON, P. (2008). Brain plasticity: how learning changes your brain [Online]. Retrieved from https://sharpbrains.com/blog/2008/02/26/brain-plasticity-how-learning-changes-your-brain/
+MICHELON, P. (2008). Brain plasticity: how learning changes your brain [Online]. Retrieved from [https://sharpbrains.com/blog/2008/02/26/brain-plasticity-how-learning-changes-your-brain/](https://sharpbrains.com/blog/2008/02/26/brain-plasticity-how-learning-changes-your-brain/)
 
 Mitchell, W. J. (c2004). E-topia: život ve městě trochu jinak. Praha: Zlatý řez.
 
 Ong, W. J. (2006). Technologizace slova: mluvená a psaná řeč. Praha: Karolinum.
 
-Prensky, M. (2001). Digital Natives, Digital Immigrants Part 1 [Online]. On The Horizon, 9(5), 1-6. https://doi.org/10.1108/10748120110424816
+Prensky, M. (2001). Digital Natives, Digital Immigrants Part 1 [Online]. On The Horizon, 9(5), 1-6. [https://doi.org/10.1108/10748120110424816](https://doi.org/10.1108/10748120110424816)
 
 Wolf, M. (2020). Čtenáři, vrať se: mozek a čtení v digitálním světě. Brno: Host.
 
-Ofcom [Online]. (2001-). Retrieved from https://en.wikipedia.org/wiki/Ofcom
+Ofcom [Online]. (2001-). Retrieved from [https://en.wikipedia.org/wiki/Ofcom](https://en.wikipedia.org/wiki/Ofcom)

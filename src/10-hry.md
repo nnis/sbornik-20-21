@@ -12,19 +12,19 @@ Konkrétně se zaměřím na hry, které jsou pro vzdělávání přímo určen�
 
 ## Hra jako učební pomůcka
 
-Hra je jakákoli samostatná nebo skupinová činnost sloužící k zábavě, či odpočinku. 
+Hra je jakákoli samostatná nebo skupinová činnost sloužící k zábavě, či odpočinku.
 
-> „*Výsledkem vývoje počítačové hry je virtuální svět nebo prostředí, do kterého může hráč pomocí komponentů připojených k počítači (myš, klávesnice, joystick, gamepad a další) vstoupit a jeho dění ovlivňovat. K interakci dochází na základě zásahu hráče do spuštěného programu, který byl pro takový zásah vyvíjen. Obvykle se jedná o určitý úkol, který musí hráč splnit za daných podmínek nebo v časovém limitu, zvítězit v simulaci sportu či boje, případně dosáhnout jiného cíle odvislého od námětu a žánru hry i záměru vývojářů.*“ 
+> „*Výsledkem vývoje počítačové hry je virtuální svět nebo prostředí, do kterého může hráč pomocí komponentů připojených k počítači (myš, klávesnice, joystick, gamepad a další) vstoupit a jeho dění ovlivňovat. K interakci dochází na základě zásahu hráče do spuštěného programu, který byl pro takový zásah vyvíjen. Obvykle se jedná o určitý úkol, který musí hráč splnit za daných podmínek nebo v časovém limitu, zvítězit v simulaci sportu či boje, případně dosáhnout jiného cíle odvislého od námětu a žánru hry i záměru vývojářů.*“
 
 (Počítačová hra, 2001)
 
-Hry jako učební pomůcky si představuji úplně stejně, jde o jakýsi interaktivní program, pomocí kterého uživatel plní úkoly, které nějakým způsobem rozvíjí jeho vědomosti v daném odvětví, ale zároveň se baví, může to přejít v to, že nemá primárně pocit toho, že se učí. Naučné hry v tuto chvíli považuji jako ozvláštnění, zábavné cvičení v rámci výuky, ne jako její úplnou náhradu, ale její doplnění. Příkladem může být výklad teorie učitelem a následná praxe s pomocí hry. „*Termín škola hrou popisuje Komenského systém výuky, který nemá nic společného s hraním, jak je často chápáno. Jde o hraní na divadle, kdy si látku děti předříkávaly jako v divadle*.“(Kučera, 2019) Možná to není zrovna škola hrou, kterou myslel učitel národů, ale rozhodně nám skrze metodu využití her ve výuce pomůže k procvičení učiva. Mimo školní lavice se vzdělávací hry dají využít několika způsoby např. sebevzdělávání, profesní využití, volná zábava, trénování paměti. Příkladem mohou být hry obsahující rébusy, nebo simulátory (např. starání se o virtuální zvířátko), obecně dále „deskové“ hry, které se přesunuly do digitálního prostředí např. šachy, dáma, pexeso, sudoku a tak dále. 
+Hry jako učební pomůcky si představuji úplně stejně, jde o jakýsi interaktivní program, pomocí kterého uživatel plní úkoly, které nějakým způsobem rozvíjí jeho vědomosti v daném odvětví, ale zároveň se baví, může to přejít v to, že nemá primárně pocit toho, že se učí. Naučné hry v tuto chvíli považuji jako ozvláštnění, zábavné cvičení v rámci výuky, ne jako její úplnou náhradu, ale její doplnění. Příkladem může být výklad teorie učitelem a následná praxe s pomocí hry. „*Termín škola hrou popisuje Komenského systém výuky, který nemá nic společného s hraním, jak je často chápáno. Jde o hraní na divadle, kdy si látku děti předříkávaly jako v divadle*.“(Kučera, 2019) Možná to není zrovna škola hrou, kterou myslel učitel národů, ale rozhodně nám skrze metodu využití her ve výuce pomůže k procvičení učiva. Mimo školní lavice se vzdělávací hry dají využít několika způsoby např. sebevzdělávání, profesní využití, volná zábava, trénování paměti. Příkladem mohou být hry obsahující rébusy, nebo simulátory (např. starání se o virtuální zvířátko), obecně dále „deskové“ hry, které se přesunuly do digitálního prostředí např. šachy, dáma, pexeso, sudoku a tak dále.
 
 V případě digitálních her záleží samozřejmě o jaký typ hry jde, jestli je náročnější na potřebnou výbavu, nebo ne. Mezi základní výbavu patří počítač, nebo jiné zařízení jako např. telefon, nebo tablet. Mezi komponenty, které připojíme k počítači patří již zmíněná – klávesnice, myš, ovladače a další. Mezi speciální výbavu patří např. VR headsety – brýle na virtuální realitu, senzory, nebo prostory – celé místnosti, které jsou využívané jako simulátory.
 
-Jsou různé způsoby využití her jako učebních pomůcek pro nejrůznější typy studia. Hry mohou být využity již při předškolní vzdělávání, kde se může jednat o procvičování, rozvíjení osobnosti atd. Kupříkladu pro předškolní děti můžeme obecně najít hry na procvičení logického myšlení a kategorického myšlení, poznávací hry – barvy, zvířátka, rostliny, tvary apod., pexeso, počítání, učení se mluvit, hledání rozdílů. Možnosti využití v předmětech na základní škole i při sebevzdělávání – počítání ve hře, jazyky, poznávací – vlajky, státy, hádání hlavních měst, států.Dále mohou být zakomponovány do výuky na předmětech ve škole, v tuto chvíli v distanční formě. Všem mohou také ve volném čase sloužit jako pomůcka pro sebevzdělávání, pomoct uživateli rozšířit vědomosti v daném obzoru, trénovat paměť nebo ho zapojit do sportovní aktivity. Hry nebo simulátory se dále využívají pro profesionální nebo jiná speciální využití. 
+Jsou různé způsoby využití her jako učebních pomůcek pro nejrůznější typy studia. Hry mohou být využity již při předškolní vzdělávání, kde se může jednat o procvičování, rozvíjení osobnosti atd. Kupříkladu pro předškolní děti můžeme obecně najít hry na procvičení logického myšlení a kategorického myšlení, poznávací hry – barvy, zvířátka, rostliny, tvary apod., pexeso, počítání, učení se mluvit, hledání rozdílů. Možnosti využití v předmětech na základní škole i při sebevzdělávání – počítání ve hře, jazyky, poznávací – vlajky, státy, hádání hlavních měst, států.Dále mohou být zakomponovány do výuky na předmětech ve škole, v tuto chvíli v distanční formě. Všem mohou také ve volném čase sloužit jako pomůcka pro sebevzdělávání, pomoct uživateli rozšířit vědomosti v daném obzoru, trénovat paměť nebo ho zapojit do sportovní aktivity. Hry nebo simulátory se dále využívají pro profesionální nebo jiná speciální využití.
 
-## Platformy zpřístupňující vzdělávací a naučné hry 
+## Platformy zpřístupňující vzdělávací a naučné hry
 
 Online zdarma v rámci internetových stránek jako příklad jsem našla několik, které zpřístupňují vzdělávací hry – stránky se buď konkrétně věnují hrám pro danou věkovou kategorii např. děti, nebo se nevymezují na žádnou věkovou kategorii.
 
@@ -32,14 +32,14 @@ Stažení aplikace/programu do zařízení prostřednictvím distributora buď z
 
 ### Internetové stránky věnující se vzdělávacím hrám
 
-Na stránkách, které se věnují hrám pro nejmenší můžeme vidět již zmíněné poznávací, logické hry apod.  Mezi tyto patří například MENSA ČR: PRO NADANÉ DĚTI, stránka, která mimo hry a cvičení zpřístupňuje i další vzdělávání. Dále stránka Strašidýlka, která zpřístupňuje a vytváří hry pro nejmenší. Mezi internetové stránky, které slouží pro sebevzdělávání a jsou určené všem bez rozdílu věku patří například portál MENTEM, který je projektem neziskové organizace, která lidem každého věku pomáhá trénovat sebe sama skrze zábavně stylizovaná cvičení. „*Psychologická cvičení a principy, které jsme vhodně umístili do zábavných her vám pomáhají zlepšovat vaše kognitivní funkce mozku – paměť, pozornost, nebo řešení běžných úkolů*“(Mentem, 2021). Služba je placená, ale nabízí slevu díky partnerstvím s různými organizacemi jako např. ISIC, zdravotní pojišťovny – OZP, VZP,atd. Mentem například využívají v ostravské a brněnské fakultní nemocnici při rekonvalescenci jako trénování mozku po zranění. 
+Na stránkách, které se věnují hrám pro nejmenší můžeme vidět již zmíněné poznávací, logické hry apod.  Mezi tyto patří například MENSA ČR: PRO NADANÉ DĚTI, stránka, která mimo hry a cvičení zpřístupňuje i další vzdělávání. Dále stránka Strašidýlka, která zpřístupňuje a vytváří hry pro nejmenší. Mezi internetové stránky, které slouží pro sebevzdělávání a jsou určené všem bez rozdílu věku patří například portál MENTEM, který je projektem neziskové organizace, která lidem každého věku pomáhá trénovat sebe sama skrze zábavně stylizovaná cvičení. „*Psychologická cvičení a principy, které jsme vhodně umístili do zábavných her vám pomáhají zlepšovat vaše kognitivní funkce mozku – paměť, pozornost, nebo řešení běžných úkolů*“(Mentem, 2021). Služba je placená, ale nabízí slevu díky partnerstvím s různými organizacemi jako např. ISIC, zdravotní pojišťovny – OZP, VZP,atd. Mentem například využívají v ostravské a brněnské fakultní nemocnici při rekonvalescenci jako trénování mozku po zranění.
 
 Na stránce Trénink paměti můžeme najít klasické hry, jako rozdíly mezi obrázky, tetris, sudoku nebo např. trénink na krátkodobou paměť.
 Nevýhodou hraní her na internetu může být, že internetové hry jsou často podporovány standard plug-inem do prohlížeče Adobe Flash Player, jehož funkci Adobe letos ukončilo, ne všechny hry, ale závisí na Adobe Flash Player. Výhodou je, že často pokud jde o samostatné hry, nebývají placené.
 
 ### Vzdělávací hry na App Store/Google Play
 
-V rámci platformy App Store můžeme nalézt velký počet vzdělávacích her pokrývající předměty jako matematika – sbírky příkladů, zeměpis, chemie, dějepis, geografie, jazyky, českou gramatiku, pravopis, dále obecné procvičování, jakými jsou otázky a odpovědi z různých odvětví a spousta her pro úplně nejmenší. 
+V rámci platformy App Store můžeme nalézt velký počet vzdělávacích her pokrývající předměty jako matematika – sbírky příkladů, zeměpis, chemie, dějepis, geografie, jazyky, českou gramatiku, pravopis, dále obecné procvičování, jakými jsou otázky a odpovědi z různých odvětví a spousta her pro úplně nejmenší.
 
 Např. aplikace NaLékařskou uživatelům umožňuje se zábavnou formou připravit na přijímačky nejen na medicínské obory – tím, že obsahuje tisíce testových otázek z chemie, biologie a fyziky.
 
@@ -57,19 +57,19 @@ Mezi ně patří speciální simulátory pro pracovní využití, to na platform
 
 > „*Systém funguje jako soustava senzorů, která snímá laserové signály iniciované vystřelením cvičné munice. Vyhodnocuje se přesnost a efektivita zásahu a na základě toho je pak zasažený voják z další akce vyřazen, případně je označen jako zraněný a jeho stav vyžaduje ošetření a následnou evakuaci.*“
 
-(Němec, 2020) 
+(Němec, 2020)
 
 Tímto způsobem je vojákům umožněno procvičit vše, na co by narazili v reálném souboji a tím, že se jejich pohyb zaznamenává můžou např. projít své chyby v rámci akce.
 
 ## Význam vzdělávacích her v současnosti
 
-Jak jsem se již zmínila výše, hry mohou pomoci člověku rozvíjet logické myšlení, pomáhají mu procvičovat již naučené v nějaké zábavné formě. V rámci výuky ve školách se toho v souvislosti s pandemií koronaviru změnilo hodně, většina výuky musela přejít na distanční formu do digitálních prostor. To pro mnohé znamenalo velké komplikace, obzvlášť pro učitele a žáky nižších ročníků 1. a 2. stupňů základních škol, kteří mohou mít větší problém se soustředit. Zároveň se vše ztížilo i pro rodiče žáků. Distanční výuka by mohla být usnadněna využitím vzdělávacích her, děti by se v průběhu mohly více soustředit, kdyby byla výuka prokládána cvičeními. Zároveň zadávání, zpracovávání a oprava úkolů na další hodinu by v rámci platformy s hrami mohla být pro obě strany jednodušší. Např. systém Classcraft využívá her k vyučování studentů a umožňuje v rámci hraní a procvičování za získané body např. vylepšovat svou virtuální postavu, získat virtuálního mazlíčka apod.  Tento systém se rozhodla využít učitelka základní školy Dag Hammarskjold ve Wallingford, Connecticut Gianna Gurg. 
+Jak jsem se již zmínila výše, hry mohou pomoci člověku rozvíjet logické myšlení, pomáhají mu procvičovat již naučené v nějaké zábavné formě. V rámci výuky ve školách se toho v souvislosti s pandemií koronaviru změnilo hodně, většina výuky musela přejít na distanční formu do digitálních prostor. To pro mnohé znamenalo velké komplikace, obzvlášť pro učitele a žáky nižších ročníků 1. a 2. stupňů základních škol, kteří mohou mít větší problém se soustředit. Zároveň se vše ztížilo i pro rodiče žáků. Distanční výuka by mohla být usnadněna využitím vzdělávacích her, děti by se v průběhu mohly více soustředit, kdyby byla výuka prokládána cvičeními. Zároveň zadávání, zpracovávání a oprava úkolů na další hodinu by v rámci platformy s hrami mohla být pro obě strany jednodušší. Např. systém Classcraft využívá her k vyučování studentů a umožňuje v rámci hraní a procvičování za získané body např. vylepšovat svou virtuální postavu, získat virtuálního mazlíčka apod.  Tento systém se rozhodla využít učitelka základní školy Dag Hammarskjold ve Wallingford, Connecticut Gianna Gurg.
 
 > „*Associated Press řekla, že dlouho hledala nové způsoby, kterými by ze svých studentů dostala to nejlepší, proto se rozhodla zkusit třídní herní systém Classcraft. Říká, že viděla zlepšení výsledků studentů od té doby, co začala nástroj v roce 2017 používat. Její výsledky dokonce vedly ostatní učitele k používání herního systému ve výuce.*“
 
-(Lynn. 2019) 
+(Lynn. 2019)
 
-Mezi další takovéto programy patří např. Dreambox learning, věnující se výuce matematiky a na trhu se objevují další podobné systémy, které by mohly pomáhat dětem se více zajímat o předměty a zjednodušit distanční výuku. Mimo školní výuku může uživatel z jakékoli věkové kategorie trénovat kognitivní funkce mozku zábavnou formou. 
+Mezi další takovéto programy patří např. Dreambox learning, věnující se výuce matematiky a na trhu se objevují další podobné systémy, které by mohly pomáhat dětem se více zajímat o předměty a zjednodušit distanční výuku. Mimo školní výuku může uživatel z jakékoli věkové kategorie trénovat kognitivní funkce mozku zábavnou formou.
 
 Jak jsem již několikrát zmínila mezi hlavní výhody vzdělávacích her je zábavná forma učení, vhodná k rozvoji logického myšlení, tréninku paměti, a ostatních kognitivních funkcí mozku. U dětí pomáhá s rychlejším vývojem mozku. V jakémkoli věku nám může pomoct se rychleji rozhodovat a lépe zvládat každodenní úkoly. Cvičením úkolů pracujeme na své koncentraci, předcházíme problémům s pamětí, která trénink potřebuje. Hraní vzdělávacích her, i „normálních“ her nám může pomoci umět lépe pracovat s technologiemi a orientací v nich.
 
@@ -83,22 +83,22 @@ V rámci práce jsem nejdříve definovala hru jako takovou a poté výbavu pot
 
 Hejlková, A. (2020). Reprezentace historie ve videohrách: Případová studie hry "Kingdom Come: Deliverance" (Bakalářská práce). Praha.
 
-Kučera, J. Komenský jako oběť propagandy. Co vlastně znamená jeho škola hrou? [Online]. Čtidoma. Retrieved from https://www.ctidoma.cz/zpravodajstvi/komensky-jako-obet-propagandy-co-vlastne-znamna-jeho-skola-hrou-54543
+Kučera, J. Komenský jako oběť propagandy. Co vlastně znamená jeho škola hrou? [Online]. Čtidoma. Retrieved from [https://www.ctidoma.cz/zpravodajstvi/komensky-jako-obet-propagandy-co-vlastne-znamna-jeho-skola-hrou-54543](https://www.ctidoma.cz/zpravodajstvi/komensky-jako-obet-propagandy-co-vlastne-znamna-jeho-skola-hrou-54543)
 
-Lynn, B. Video Games Used as Learning Tools in Schools [Online]. Retrieved from https://learningenglish.voanews.com/a/video-games-used-as-learning-tools-in-schools/4754113.html
+Lynn, B. Video Games Used as Learning Tools in Schools [Online]. Retrieved from [https://learningenglish.voanews.com/a/video-games-used-as-learning-tools-in-schools/4754113.html](https://learningenglish.voanews.com/a/video-games-used-as-learning-tools-in-schools/4754113.html)
 
-McCall, J. Playing with the past: history and video games (and why it might matter) [Online]. Retrieved February 10, 2021, from https://jgeekstudies.org/2019/04/22/playing-with-the-past-history-and-video-games-and-why-it-might-matter/
+McCall, J. Playing with the past: history and video games (and why it might matter) [Online]. Retrieved February 10, 2021, from [https://jgeekstudies.org/2019/04/22/playing-with-the-past-history-and-video-games-and-why-it-might-matter/](https://jgeekstudies.org/2019/04/22/playing-with-the-past-history-and-video-games-and-why-it-might-matter/)
 
-Němec, F. Nové simulátory vyzkoušeli vojáci ze Žatce při výcviku v terénu i v posádce [Online]. Retrieved from https://www.acr.army.cz/informacni-servis/zpravodajstvi/nove-simulatory-vyzkouseli-vojaci-z-zatce-pri-vycviku-v-terenu-i-v-posadce-219167/
+Němec, F. Nové simulátory vyzkoušeli vojáci ze Žatce při výcviku v terénu i v posádce [Online]. Retrieved from [https://www.acr.army.cz/informacni-servis/zpravodajstvi/nove-simulatory-vyzkouseli-vojaci-z-zatce-pri-vycviku-v-terenu-i-v-posadce-219167/](https://www.acr.army.cz/informacni-servis/zpravodajstvi/nove-simulatory-vyzkouseli-vojaci-z-zatce-pri-vycviku-v-terenu-i-v-posadce-219167/)
 
-Počítačová hra [Online]. (2001-). Retrieved from https://cs.wikipedia.org/wiki/Po%C4%8D%C3%ADta%C4%8Dov%C3%A1_hra
+Počítačová hra [Online]. (2001-). Retrieved from [https://cs.wikipedia.org/wiki/Po%C4%8D%C3%ADta%C4%8Dov%C3%A1_hra](https://cs.wikipedia.org/wiki/Po%C4%8D%C3%ADta%C4%8Dov%C3%A1_hra)
 
-Jak učitelé hodnotí přechod na online výuku z důvodu pandemie COVID-19 [Online]. Retrieved from https://www.participace21.cz/data/folders/7.pdf
+Jak učitelé hodnotí přechod na online výuku z důvodu pandemie COVID-19 [Online]. Retrieved from [https://www.participace21.cz/data/folders/7.pdf](https://www.participace21.cz/data/folders/7.pdf)
 
 Internetové platformy zaměřené na učení skrze hry ve škole
-    • https://www.dreambox.com/why-dreambox
-    • https://www.classcraft.com/
+    • [https://www.dreambox.com/why-dreambox](https://www.dreambox.com/why-dreambox)
+    • [https://www.classcraft.com/](https://www.classcraft.com/)
 
-Platformy distribuující hry/aplikace 
-    • https://store.steampowered.com/
-    • https://www.apple.com/app-store/
+Platformy distribuující hry/aplikace
+    • [https://store.steampowered.com/](https://store.steampowered.com/)
+    • [https://www.apple.com/app-store/](https://www.apple.com/app-store/)
